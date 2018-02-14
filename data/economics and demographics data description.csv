@@ -1,0 +1,13 @@
+country, country
+year, year
+life_expectancy, The average number of years a newborn child would live if current mortality patterns were to stay the same.
+under_five_morality, Under-five mortality rate (per 1000 live births). The probability that children born in a specific year will die before reaching the age of five; if the age-specific mortality rates remain the same. Expressed as a rate per 1000 live births.
+urban_population, Urban population (% of total).
+gdp, Gross Domestic Product per capita by Purchasing Power Parities (in international dollars; fixed 2011 prices). The inflation and differences in the cost of living between countries has been taken into account.
+agriculture, Agriculture; value added (% of GDP)
+industry, Industry; value added (% of GDP)
+services, Services; etc.; value added (% of GDP)
+health_expenditure, Total expenditure on health as percentage of GDP
+coal_consumption, Coal Consumption per person (tonnes oil equivalent)
+carbon_dioxide, Average CO2 emission in metric tons per person during the given year; calculated from deviding the total CO2 with the total population of the countries.
+electricity_consumption, Per capita consumption of electricity during the given year; counted in kilowatt-hours (kWh). Electric power consumption measures the production of power plants and combined heat and power plants less transmission; distribution; and transformation losses and own use by heat and power plants.
